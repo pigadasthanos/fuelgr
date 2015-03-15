@@ -1,0 +1,605 @@
+@media (min-width: 768px) {
+	#containerMap{
+		clear: both;
+	    height: 100%;
+		text-align: center;
+		max-width: 100%;
+		margin: -65px 0 auto;
+		padding-top: 65px;
+	}
+	#model-map{
+		height: 100%;
+		width: auto;
+	}
+	#Cor-info{
+		clear: both;
+		font-size: 12px;
+		max-height: 100%;
+		max-width: 380px;
+	}
+	#messageArea{
+		clear: both;
+	 	position: absolute;
+	 	text-align: center;
+    	right: 0%;
+    	bottom: 6.3em;
+	}
+	.dimension{height:470px; min-height:300px;}
+	#list{padding: 5px 20px;}
+	.infowindow-list{margin: 10px;}
+
+	#collapseCor{margin: 0 0 0px -9.8em;}
+	#minAverageMaxPrice{
+	    left: 50%;
+	    margin-left: -145px;
+	    top: 0;
+	    width: 290px;
+	    z-index: 2;
+	}
+	.minAverageMaxPrice{
+		
+	}
+	.imgBand{
+		display: inline;
+		padding: 0px;
+		margin:0px;
+	}
+	.sizeAbout{height: 480px;}
+	.size{
+		font-size: 14px;
+    	font-weight: 600;
+	}
+	.l2{
+		position: absolute;
+		display: inline-block;
+    	    	
+	}
+	.l1{
+		margin-right: -1em;
+	}
+	
+	#buttonlist{
+		
+		margin-right: -1em;
+	}
+	#infoArea {
+		clear: both;
+		bottom: 66px;
+	    font-size: 11px;
+	    font-weight: bold;
+	    margin-left: -4em;
+	    width: 230px;
+	}
+	#memorandum {
+		clear: both;
+		bottom: 66px;
+	    font-size: 11px;
+	    font-weight: bold;
+	    margin-left: -4em;
+	    width: 230px;
+	}
+
+}
+@media (max-width: 1000px) {
+	.l4{margin-left: -1.5em;margin-right: -1.5em;}
+}
+
+@media (max-width: 767px) {
+	#containerMap{
+		clear: both;
+	    height: 100%;
+		text-align: center;
+		max-width: 100%;
+		min-width: 200px;
+		min-height: 200px;
+		margin: -50px 0 auto;
+		padding-top: 50px;
+	}
+	#model-map{
+		width: auto;
+		min-width:240px;
+		height: 100%;
+		min-height: 100px;
+	}
+	#Cor-info{
+		width: 220px;
+		max-height: 100%;
+		min-height: 100px;
+		font-size: 9px;
+	}
+
+	#area{display: none;}
+	#messageArea{
+		clear: both;
+		bottom: 4.3em; 
+	    left: 50%;
+	    position: absolute;
+	    width: 140px;
+	    margin-left: -70px;
+	}
+	#list{padding: 5px 2px;}
+	.infowindow-list{margin: 5px;}
+	.dimension{height:80%; min-height:200px; max-height: 350px;}
+	#collapseCor{margin-bottom: -1px;}
+	.sizeAbout{height: 80%;}
+	.size{font-size: 12px; font-weight: 600;}
+	#minAverageMaxPrice{
+		clear: both;
+		top: 0%;
+		left: 50%;
+		width: 200px;
+		margin-left: -100px;
+	}
+	.minAverageMaxPrice{
+		clear: both;
+		border-radius: 2px;
+	    border-width: 1px;
+	    color: black;
+	    border-style: solid;
+	    font-size: 10px;
+	    
+
+	}
+	.imgBand{
+		display: inline;
+		width: auto;
+		padding:4px 0px;
+		margin:0px -10px 0 0;
+	}
+	#img{
+		width: 16px; 
+	}
+	#buttonlist{ margin-right: -1em;}
+	.l2{display: inline-block;margin: 0;}
+	.l1{position: absolute;}
+	.l4{left:-1.3em;}
+	.buttons {font-size:12px;}
+	#infoArea {
+		clear: both;
+		font-size: 10px;
+		font-weight: bold;
+		height: 250px;
+		overflow-y:auto;
+		overflow-x: hidden; 
+		margin-left: -2em;
+		bottom: 47px;
+		width: 245px;
+	}
+	#memorandum {
+		clear: both;
+		font-size: 10px;
+		font-weight: bold;
+		height: 250px;
+		overflow-y:auto;
+		overflow-x: hidden; 
+		margin-left: -2em;
+		bottom: 47px;
+		width: 230px;
+	}
+}/**************End css max-width:767***************/
+@media (max-width: 530px) {
+	#Cor-info{
+		clear: both;
+		width: 98.5%;
+		min-height: 50px;
+		max-height: 100px;
+	}
+	#model-map{
+		width: auto;
+		min-width:210px;
+		height: calc(100% - 100px);
+		min-height: 100px;
+	}
+
+}
+#spinner{}
+#cookiesAlert{clear: both; visibility: hidden; width: 75%; left:12.5%;}
+#messageArea{clear: both; visibility: hidden;}
+#container{
+	clear: both;
+    height: 100%;
+	text-align: center;
+	max-width: 100%;
+	min-width: 240px;
+	min-height: 250px;
+	}
+#map_canvas {	
+	clear: both;
+	height: 100%;
+	width: auto;
+}
+#panorama{
+	width: auto;
+	height:300px;
+}
+#model-map{
+	margin: 4px;
+	border-style: solid;
+    border-width: 1px;
+    border-color: lightgrey;
+}
+#Cor-info{
+	padding: 0;
+	margin:4px;
+	overflow-y: auto;
+	text-align: left;
+}
+#mylocation{
+	clear: both;
+	width: 110px;
+	height:auto;
+	font-weight:bold;
+}
+
+/*=============== Logo DEIXTO Area==================*/
+.logoArea{
+	clear: both;
+	bottom: 5.5em;
+    display: inline;
+    height: auto;
+    left: -1%;
+    margin: 0;
+    max-width: 17%;
+    opacity: 0.65;
+    position: absolute;
+}
+
+.logoArea img {
+	clear: both;
+    max-width:85% !important;
+    height:auto;
+    display:inline;
+
+}
+
+/*=============== /Logo DEIXTO Area==================*/
+/*=========Logo info ,location=============*/
+#zoomButtons{
+	top: 1%;
+    max-width: 12%;
+    position: absolute;
+    left: 1.5%;
+}
+.buttons {
+	padding: 0%;
+	margin: auto;
+    font-weight: bold;
+    cursor: pointer;  
+}
+
+#infoArea {
+	clear: both;
+	background-color: white;
+    border-radius: 1px;
+    box-shadow: 0 0 30px #000000;
+    display: none;
+    padding: 5px;
+    position: absolute;
+}
+#memorandum {
+	clear: both;
+	background-color: white;
+    border-radius: 1px;
+    box-shadow: 0 0 30px #000000;
+    display: none;
+    text-align: left;
+    padding-top: 10px;
+    position: absolute;
+}
+/*=========/Logo info ,location=============*/
+#content {
+    position: absolute;
+    left: 5px;
+    bottom:60px;
+}
+#window {
+	position: absolute;
+	background-color: white;
+	top: 30%;
+	left: 20%;
+	width: 60%;
+	height: 50%;
+	border-radius: 10px;
+	box-shadow: 0px 0px 10px #000000;
+	opacity: 0.9;
+
+}
+
+#window p {
+	margin: 10px;
+}
+#info {
+	margin: 2px;
+	position: absolute;
+	right:1%;
+	bottom:10%;
+}
+#info1 {
+	margin: 2px;
+	position: absolute;
+	right:3%;
+	bottom:10%;
+}
+/*=========infowindow-Marker========*/
+#infowindow-content {
+	clear: both;
+    font-family: Helvetica,sans-serif;
+    font-size: 11px;
+    text-align: left;
+    width: 300px;
+    height: 135px;
+    overflow: hidden;
+    display: block;
+    
+}
+#row{
+	display: inline;
+
+}
+.fueltype{
+	line-height: 110%;
+	display: inline;
+    
+}
+.brand{
+ 	display: inline;
+ 	font-size: 18px;
+    font-weight: bold;
+    
+}
+.lastUpdate {
+ 	display: inline;
+ 	text-align: left;
+    font-size: 13px;
+    font-weight: bold;
+    font-style: italic;
+
+}
+.owner{
+	color: darkgreen;
+	line-height: 100%;
+	font-weight: bold;
+	font-size: 14px;
+}
+.address{
+	line-height: 110%;
+ 	font-style: italic;
+	font-size: 11px;
+}
+.right{
+	display: inline;
+    font-size: 19px;
+    font-weight: 800;
+    float: right;
+    
+}
+/*=========/infowindow-Marker========*/
+.arrow_box { 
+	position: absolute;
+	background: #ffffff;
+	border: 2px solid #000000;
+	font-size: 11px;
+	font-weight:bold;
+	height: 18px;
+	width: 42px;
+	overflow: visible;
+}
+.arrow_box:after,.arrow_box:before {
+	top: 100%;
+	left: 50%;
+	border: solid transparent;
+	content: "";
+    height: 0;
+    width: 0;
+	position: absolute;
+	pointer-events: none;
+} 
+.arrow_box:after {
+	border-color: rgba(255, 255, 255, 0);
+	border-top-color: #ffffff; 
+	border-width: 5px; 
+	margin-left: -5px; 
+}
+.arrow_box:before { 
+	border-color: rgba(0, 0, 0, 0);
+	border-top-color: #000000;
+	border-width: 8px;
+	margin-left: -8px;
+}
+.price_blue{
+	display: inline;
+	font-weight: 700;
+	color: blue;
+}
+.price_red{
+	display: inline;
+	color: #d42815;
+	font-weight: 700;
+}
+.price_green{
+	display: inline;
+	font-weight: 700;
+	color: green;
+}
+#arrow{
+	display: block;
+	margin-top: -16px;
+    margin-left:auto;
+    margin-right: auto;
+}
+#imgeuro{
+    position: absolute;
+	margin: -40px 26px;
+}
+#minAverageMaxPrice{
+	visibility: hidden;
+	height: 1px;
+	position: absolute;
+}
+.minAverageMaxPrice{
+	background-color: white;;
+    clear: both;
+    font-weight: bold;
+    border-color: black;
+    border-radius: 2px;
+    border-style: solid;
+    border-width: 1px;
+    color: #222222;
+}
+.radio{
+	padding: 1%;
+	margin: auto;
+	background-color: white;
+	border-radius: 10px;
+}
+.checkbox{
+	display: none;
+	padding: 1%;
+	margin: auto;
+	background-color: white;
+	border-radius: 10px;
+}
+#centerbutton{
+	text-align: center;
+	margin: 0px;
+}
+.leftFn{
+	color: #cb3c26;
+	display: inline-block;
+    float: left;
+    font-size: 13px;
+    font-weight: 800;
+    margin: 0 0 15px 3px;
+    width: 190px;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+    overflow: hidden;
+}
+.left-button{
+	clear: both;
+	border-style: solid;
+    border-width: 1px;
+	color:#555;
+    text-align: left;
+    line-height: 110%;
+    height: 60px;
+    cursor:pointer;
+    margin: 0px;
+    padding-top: 2px;
+}
+.left-button:hover{
+	color:#000;
+}
+/*=========CSS Για προβολή σε λίστα!==============*/
+.modal-full{
+	height:90%;
+	min-height: 280px;
+	text-align: left;
+	width: 97%;	
+}
+#buttonlist{  visibility: hidden;}
+#list{
+	clear: both;
+	background-color: #cdd4d0;
+	min-height: 150px;
+	height: calc(100% - 120px);
+	overflow: auto;
+}
+.infowindow-list{
+	clear: both;
+    background-color: #f2f1e9;
+    border-radius: 5px;
+    border-style: solid;
+    border-width: 2px;
+    box-shadow: 0 0 4px #000000;
+    display: inline-block;
+    
+    padding-top: 4px;
+    text-align: left
+}
+/*=========/CSS  Για προβολή σε λίστα!==============*/
+
+.myglyphicon {font-size: 20px;}
+
+#area{font-weight: bold;}
+/*navbar ul li position absolute*/
+
+#navbar {
+	background-color: #fff;
+    left: -4.5em;
+    margin: 0;
+    padding: 0;
+    position: absolute;
+    top: -4em;
+}
+#navbar li 
+{
+    list-style: none;
+    float: left; 
+    position:relative;
+}
+#navbar li a {
+    display: block;
+    padding: 3px 8px;
+    
+    text-decoration: none; 
+    color: #555;
+    font-weight: bold; }
+#navbar li a:hover {
+    color: #000; 
+}
+#navbar li ul {
+    display: none;
+    list-style-type:none;
+}
+#navbar li:hover ul, #navbar li.hover ul {
+    position: absolute;
+    display:list-item;
+    left: 0;
+    width: 100%;
+    margin: 0;
+    padding: 0;
+    top: 50px;
+}
+.corImg{
+	float: left;
+    margin: 0px -3px;
+    padding: 0;
+	width: 30px;
+}
+.corOwner{
+	margin: 0 0 0 35px;
+    overflow: hidden;
+    text-align: left;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+}
+.event{
+	background-color: #f2f1e9;
+    border: 1px solid #e9e5dc;
+    display: block;
+    padding: 8px;
+    position: relative;
+	cursor: pointer;
+	min-height: 50px;
+	margin: 2px 0;
+}
+.event:hover
+{
+	background-color: #fff;
+	color: #226fbe;
+}
+.event:focus,
+.event:active{
+	z-index: 2;
+  	color: #fff;
+  	background-color: #428bca;
+  	border-color: #428bca;
+}
+.white{
+	 background-color: black;
+}
+#allprice{
+	padding: 0px;
+}
+
