@@ -31,16 +31,16 @@
 	#collapseCor{margin: 0 0 0px -9.8em;}
 	#minAverageMaxPrice{
 	    left: 50%;
-	    margin-left: -145px;
+	    margin-left: -160px;
 	    top: 0;
-	    width: 290px;
+	    width: 320px;
 	    z-index: 2;
 	}
 	.minAverageMaxPrice{
 		
 	}
 	.imgBand{
-		display: inline;
+		
 		padding: 0px;
 		margin:0px;
 	}
@@ -127,8 +127,8 @@
 		clear: both;
 		top: 0%;
 		left: 50%;
-		width: 200px;
-		margin-left: -100px;
+		width: 220px;
+		margin-left: -110px;
 	}
 	.minAverageMaxPrice{
 		clear: both;
@@ -143,8 +143,6 @@
 	.imgBand{
 		display: inline;
 		width: auto;
-		padding:4px 0px;
-		margin:0px -10px 0 0;
 	}
 	#img{
 		width: 16px; 
@@ -407,17 +405,17 @@
 	margin-left: -8px;
 }
 .price_blue{
-	display: inline;
+	
 	font-weight: 700;
 	color: blue;
 }
 .price_red{
-	display: inline;
+	
 	color: #d42815;
 	font-weight: 700;
 }
 .price_green{
-	display: inline;
+	
 	font-weight: 700;
 	color: green;
 }

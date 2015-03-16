@@ -9,7 +9,7 @@
                   <span class="icon-bar"></span>
               </button>
               <a class="navbar-brand" href="http://fuelgr.deixto.com/" title="fuelGr"><img src="img/app logo/fuelGR-32.png"/></a> 
-              <?php include('shared/zoomButton.php'); ?><!-- Κουμπί zoom-->
+              <?php include('shared/options.php'); ?><!-- Κουμπί zoom-->
 
                  
               
