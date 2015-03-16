@@ -1,0 +1,475 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<RECORDS>
+  <RECORD>
+    <jointFuelTypeID>10</jointFuelTypeID>
+    <fuelTypeID>1</fuelTypeID>
+    <fuelSubTypeID>0</fuelSubTypeID>
+    <fuelName>Αμόλυβδη 95</fuelName>
+    <fuelNormalName>Αμόλυβδη 95</fuelNormalName>
+    <fuelTyleIsEnabled>1</fuelTyleIsEnabled>
+  </RECORD>
+  <RECORD>
+    <jointFuelTypeID>11</jointFuelTypeID>
+    <fuelTypeID>1</fuelTypeID>
+    <fuelSubTypeID>1</fuelSubTypeID>
+    <fuelName>Shell Αμόλυβδη 95 V-Power</fuelName>
+    <fuelNormalName>Αμόλυβδη 95 V-Power</fuelNormalName>
+    <fuelTyleIsEnabled>1</fuelTyleIsEnabled>
+  </RECORD>
+  <RECORD>
+    <jointFuelTypeID>12</jointFuelTypeID>
+    <fuelTypeID>1</fuelTypeID>
+    <fuelSubTypeID>2</fuelSubTypeID>
+    <fuelName>BP Unleaded 95</fuelName>
+    <fuelNormalName>Αμόλυβδη 95</fuelNormalName>
+    <fuelTyleIsEnabled>1</fuelTyleIsEnabled>
+  </RECORD>
+  <RECORD>
+    <jointFuelTypeID>13</jointFuelTypeID>
+    <fuelTypeID>1</fuelTypeID>
+    <fuelSubTypeID>3</fuelSubTypeID>
+    <fuelName>Cyclon Drive Max Unleaded 95</fuelName>
+    <fuelNormalName>Αμόλυβδη 95</fuelNormalName>
+    <fuelTyleIsEnabled>1</fuelTyleIsEnabled>
+  </RECORD>
+  <RECORD>
+    <jointFuelTypeID>14</jointFuelTypeID>
+    <fuelTypeID>1</fuelTypeID>
+    <fuelSubTypeID>4</fuelSubTypeID>
+    <fuelName>Revoil αμόλυβδη 95 xtra4</fuelName>
+    <fuelNormalName>Αμόλυβδη 95</fuelNormalName>
+    <fuelTyleIsEnabled>1</fuelTyleIsEnabled>
+  </RECORD>
+  <RECORD>
+    <jointFuelTypeID>15</jointFuelTypeID>
+    <fuelTypeID>1</fuelTypeID>
+    <fuelSubTypeID>5</fuelSubTypeID>
+    <fuelName>ΕΚΟ Kinitron Unleaded 95 Plus</fuelName>
+    <fuelNormalName>Αμόλυβδη 95</fuelNormalName>
+    <fuelTyleIsEnabled>1</fuelTyleIsEnabled>
+  </RECORD>
+  <RECORD>
+    <jointFuelTypeID>16</jointFuelTypeID>
+    <fuelTypeID>1</fuelTypeID>
+    <fuelSubTypeID>6</fuelSubTypeID>
+    <fuelName>Shell Αμόλυβδη Ενισχυμένη 95 οκτανίων</fuelName>
+    <fuelNormalName>Αμόλυβδη 95</fuelNormalName>
+    <fuelTyleIsEnabled>1</fuelTyleIsEnabled>
+  </RECORD>
+  <RECORD>
+    <jointFuelTypeID>20</jointFuelTypeID>
+    <fuelTypeID>2</fuelTypeID>
+    <fuelSubTypeID>0</fuelSubTypeID>
+    <fuelName>Αμόλυβδη 100</fuelName>
+    <fuelNormalName>Αμόλυβδη 100</fuelNormalName>
+    <fuelTyleIsEnabled>1</fuelTyleIsEnabled>
+  </RECORD>
+  <RECORD>
+    <jointFuelTypeID>21</jointFuelTypeID>
+    <fuelTypeID>2</fuelTypeID>
+    <fuelSubTypeID>1</fuelSubTypeID>
+    <fuelName>Shell Αμόλυβδη 100 V-Power Racing</fuelName>
+    <fuelNormalName>Αμόλυβδη 100</fuelNormalName>
+    <fuelTyleIsEnabled>1</fuelTyleIsEnabled>
+  </RECORD>
+  <RECORD>
+    <jointFuelTypeID>22</jointFuelTypeID>
+    <fuelTypeID>2</fuelTypeID>
+    <fuelSubTypeID>2</fuelSubTypeID>
+    <fuelName>ΕΚΟ Kinitron Unleaded 100 Speed</fuelName>
+    <fuelNormalName>Αμόλυβδη 100</fuelNormalName>
+    <fuelTyleIsEnabled>1</fuelTyleIsEnabled>
+  </RECORD>
+  <RECORD>
+    <jointFuelTypeID>23</jointFuelTypeID>
+    <fuelTypeID>2</fuelTypeID>
+    <fuelSubTypeID>3</fuelSubTypeID>
+    <fuelName>BP Ultimate 100</fuelName>
+    <fuelNormalName>Αμόλυβδη 100</fuelNormalName>
+    <fuelTyleIsEnabled>1</fuelTyleIsEnabled>
+  </RECORD>
+  <RECORD>
+    <jointFuelTypeID>24</jointFuelTypeID>
+    <fuelTypeID>2</fuelTypeID>
+    <fuelSubTypeID>4</fuelSubTypeID>
+    <fuelName>Cyclon Drive Max Unleaded 100</fuelName>
+    <fuelNormalName>Αμόλυβδη 100</fuelNormalName>
+    <fuelTyleIsEnabled>1</fuelTyleIsEnabled>
+  </RECORD>
+  <RECORD>
+    <jointFuelTypeID>25</jointFuelTypeID>
+    <fuelTypeID>2</fuelTypeID>
+    <fuelSubTypeID>5</fuelSubTypeID>
+    <fuelName>Revoil Αμόλυβδη 100 xtra4</fuelName>
+    <fuelNormalName>Αμόλυβδη 100</fuelNormalName>
+    <fuelTyleIsEnabled>1</fuelTyleIsEnabled>
+  </RECORD>
+  <RECORD>
+    <jointFuelTypeID>30</jointFuelTypeID>
+    <fuelTypeID>3</fuelTypeID>
+    <fuelSubTypeID>0</fuelSubTypeID>
+    <fuelName>Super</fuelName>
+    <fuelNormalName>Super</fuelNormalName>
+    <fuelTyleIsEnabled>1</fuelTyleIsEnabled>
+  </RECORD>
+  <RECORD>
+    <jointFuelTypeID>31</jointFuelTypeID>
+    <fuelTypeID>3</fuelTypeID>
+    <fuelSubTypeID>1</fuelSubTypeID>
+    <fuelName>BP Super LRP</fuelName>
+    <fuelNormalName>Super</fuelNormalName>
+    <fuelTyleIsEnabled>1</fuelTyleIsEnabled>
+  </RECORD>
+  <RECORD>
+    <jointFuelTypeID>32</jointFuelTypeID>
+    <fuelTypeID>3</fuelTypeID>
+    <fuelSubTypeID>2</fuelSubTypeID>
+    <fuelName>Βενζίνη L.R.P.</fuelName>
+    <fuelNormalName>Super</fuelNormalName>
+    <fuelTyleIsEnabled>1</fuelTyleIsEnabled>
+  </RECORD>
+  <RECORD>
+    <jointFuelTypeID>33</jointFuelTypeID>
+    <fuelTypeID>3</fuelTypeID>
+    <fuelSubTypeID>3</fuelSubTypeID>
+    <fuelName>Shell Νέα Σούπερ</fuelName>
+    <fuelNormalName>Super</fuelNormalName>
+    <fuelTyleIsEnabled>1</fuelTyleIsEnabled>
+  </RECORD>
+  <RECORD>
+    <jointFuelTypeID>40</jointFuelTypeID>
+    <fuelTypeID>4</fuelTypeID>
+    <fuelSubTypeID>0</fuelSubTypeID>
+    <fuelName>Diesel Κίνησης</fuelName>
+    <fuelNormalName>Diesel Κίνησης</fuelNormalName>
+    <fuelTyleIsEnabled>1</fuelTyleIsEnabled>
+  </RECORD>
+  <RECORD>
+    <jointFuelTypeID>41</jointFuelTypeID>
+    <fuelTypeID>4</fuelTypeID>
+    <fuelSubTypeID>1</fuelSubTypeID>
+    <fuelName>Revoil Πετρέλαιο Κίνησης xtra4</fuelName>
+    <fuelNormalName>Diesel Κίνησης</fuelNormalName>
+    <fuelTyleIsEnabled>1</fuelTyleIsEnabled>
+  </RECORD>
+  <RECORD>
+    <jointFuelTypeID>42</jointFuelTypeID>
+    <fuelTypeID>4</fuelTypeID>
+    <fuelSubTypeID>2</fuelSubTypeID>
+    <fuelName>Shell Μείγμα Κίνησης Βιοντήζελ Extra</fuelName>
+    <fuelNormalName>Μείγμα Κίνησης Βιοντήζελ Extra</fuelNormalName>
+    <fuelTyleIsEnabled>1</fuelTyleIsEnabled>
+  </RECORD>
+  <RECORD>
+    <jointFuelTypeID>43</jointFuelTypeID>
+    <fuelTypeID>4</fuelTypeID>
+    <fuelSubTypeID>3</fuelSubTypeID>
+    <fuelName>ΕΚΟ Kinitron Diesel Plus</fuelName>
+    <fuelNormalName>Diesel Κίνησης</fuelNormalName>
+    <fuelTyleIsEnabled>1</fuelTyleIsEnabled>
+  </RECORD>
+  <RECORD>
+    <jointFuelTypeID>44</jointFuelTypeID>
+    <fuelTypeID>4</fuelTypeID>
+    <fuelSubTypeID>4</fuelSubTypeID>
+    <fuelName>Shell V-Power Diesel</fuelName>
+    <fuelNormalName>Diesel Κίνησης</fuelNormalName>
+    <fuelTyleIsEnabled>1</fuelTyleIsEnabled>
+  </RECORD>
+  <RECORD>
+    <jointFuelTypeID>45</jointFuelTypeID>
+    <fuelTypeID>4</fuelTypeID>
+    <fuelSubTypeID>5</fuelSubTypeID>
+    <fuelName>BP Super Diesel</fuelName>
+    <fuelNormalName>Diesel Κίνησης</fuelNormalName>
+    <fuelTyleIsEnabled>1</fuelTyleIsEnabled>
+  </RECORD>
+  <RECORD>
+    <jointFuelTypeID>46</jointFuelTypeID>
+    <fuelTypeID>4</fuelTypeID>
+    <fuelSubTypeID>6</fuelSubTypeID>
+    <fuelName>Shell Πετρέλαιο Κίνησης Extra</fuelName>
+    <fuelNormalName>Diesel Κίνησης</fuelNormalName>
+    <fuelTyleIsEnabled>1</fuelTyleIsEnabled>
+  </RECORD>
+  <RECORD>
+    <jointFuelTypeID>47</jointFuelTypeID>
+    <fuelTypeID>4</fuelTypeID>
+    <fuelSubTypeID>7</fuelSubTypeID>
+    <fuelName>Jet Premium Diesel</fuelName>
+    <fuelNormalName>Diesel Κίνησης</fuelNormalName>
+    <fuelTyleIsEnabled>1</fuelTyleIsEnabled>
+  </RECORD>
+  <RECORD>
+    <jointFuelTypeID>48</jointFuelTypeID>
+    <fuelTypeID>4</fuelTypeID>
+    <fuelSubTypeID>8</fuelSubTypeID>
+    <fuelName>Revoil Πετρέλαιο Κίνησης Dieselmax</fuelName>
+    <fuelNormalName>Diesel Κίνησης</fuelNormalName>
+    <fuelTyleIsEnabled>1</fuelTyleIsEnabled>
+  </RECORD>
+  <RECORD>
+    <jointFuelTypeID>49</jointFuelTypeID>
+    <fuelTypeID>4</fuelTypeID>
+    <fuelSubTypeID>9</fuelSubTypeID>
+    <fuelName>Shell Μείγμα Κίνησης Βιοντήζελ</fuelName>
+    <fuelNormalName>Μείγμα Κίνησης Βιοντήζελ</fuelNormalName>
+    <fuelTyleIsEnabled>1</fuelTyleIsEnabled>
+  </RECORD>
+  <RECORD>
+    <jointFuelTypeID>50</jointFuelTypeID>
+    <fuelTypeID>5</fuelTypeID>
+    <fuelSubTypeID>0</fuelSubTypeID>
+    <fuelName>Diesel Θέρμασης</fuelName>
+    <fuelNormalName>Diesel Θέρμανσης</fuelNormalName>
+    <fuelTyleIsEnabled>1</fuelTyleIsEnabled>
+  </RECORD>
+  <RECORD>
+    <jointFuelTypeID>51</jointFuelTypeID>
+    <fuelTypeID>5</fuelTypeID>
+    <fuelSubTypeID>1</fuelSubTypeID>
+    <fuelName>Revoil Πετρέλαιο Θέρμανσης Oikoplus</fuelName>
+    <fuelNormalName>Diesel Θέρμανσης</fuelNormalName>
+    <fuelTyleIsEnabled>1</fuelTyleIsEnabled>
+  </RECORD>
+  <RECORD>
+    <jointFuelTypeID>52</jointFuelTypeID>
+    <fuelTypeID>5</fuelTypeID>
+    <fuelSubTypeID>2</fuelSubTypeID>
+    <fuelName>Shell Πετρέλαιο Θέρμανσης</fuelName>
+    <fuelNormalName>Diesel Θέρμανσης</fuelNormalName>
+    <fuelTyleIsEnabled>1</fuelTyleIsEnabled>
+  </RECORD>
+  <RECORD>
+    <jointFuelTypeID>53</jointFuelTypeID>
+    <fuelTypeID>5</fuelTypeID>
+    <fuelSubTypeID>3</fuelSubTypeID>
+    <fuelName>BP Heat</fuelName>
+    <fuelNormalName>Diesel Θέρμανσης</fuelNormalName>
+    <fuelTyleIsEnabled>1</fuelTyleIsEnabled>
+  </RECORD>
+  <RECORD>
+    <jointFuelTypeID>54</jointFuelTypeID>
+    <fuelTypeID>5</fuelTypeID>
+    <fuelSubTypeID>4</fuelSubTypeID>
+    <fuelName>BP Super Heat</fuelName>
+    <fuelNormalName>Diesel Θέρμ. Super Heat</fuelNormalName>
+    <fuelTyleIsEnabled>1</fuelTyleIsEnabled>
+  </RECORD>
+  <RECORD>
+    <jointFuelTypeID>55</jointFuelTypeID>
+    <fuelTypeID>5</fuelTypeID>
+    <fuelSubTypeID>5</fuelSubTypeID>
+    <fuelName>Diesel Θέρμανσης</fuelName>
+    <fuelNormalName>Diesel Θέρμανσης</fuelNormalName>
+    <fuelTyleIsEnabled>1</fuelTyleIsEnabled>
+  </RECORD>
+  <RECORD>
+    <jointFuelTypeID>60</jointFuelTypeID>
+    <fuelTypeID>6</fuelTypeID>
+    <fuelSubTypeID>0</fuelSubTypeID>
+    <fuelName>Υγραέριο κίνησης (Autogas)</fuelName>
+    <fuelNormalName>Υγραέριο Κίνησης</fuelNormalName>
+    <fuelTyleIsEnabled>1</fuelTyleIsEnabled>
+  </RECORD>
+  <RECORD>
+    <jointFuelTypeID>70</jointFuelTypeID>
+    <fuelTypeID>7</fuelTypeID>
+    <fuelSubTypeID>0</fuelSubTypeID>
+    <fuelName>Diesel Θέρμανσης Κατ'Οίκον</fuelName>
+    <fuelNormalName>Diesel Θέρμανσης κατ'οίκον</fuelNormalName>
+    <fuelTyleIsEnabled>1</fuelTyleIsEnabled>
+  </RECORD>
+  <RECORD>
+    <jointFuelTypeID>71</jointFuelTypeID>
+    <fuelTypeID>7</fuelTypeID>
+    <fuelSubTypeID>1</fuelSubTypeID>
+    <fuelName>Diesel Θέρμασης - K.O. &gt; 1000 lt</fuelName>
+    <fuelNormalName>Diesel Θέρμανσης κ.ο. &gt;1000 lt</fuelNormalName>
+    <fuelTyleIsEnabled>1</fuelTyleIsEnabled>
+  </RECORD>
+  <RECORD>
+    <jointFuelTypeID>72</jointFuelTypeID>
+    <fuelTypeID>7</fuelTypeID>
+    <fuelSubTypeID>2</fuelSubTypeID>
+    <fuelName>Diesel Θέρμασης - K.O. μεταξύ 500 και 1000 lt</fuelName>
+    <fuelNormalName>Diesel Θέρμανσης κ.ο. 500-1000 lt</fuelNormalName>
+    <fuelTyleIsEnabled>1</fuelTyleIsEnabled>
+  </RECORD>
+  <RECORD>
+    <jointFuelTypeID>73</jointFuelTypeID>
+    <fuelTypeID>7</fuelTypeID>
+    <fuelSubTypeID>3</fuelSubTypeID>
+    <fuelName>BP Heat - K.O. μεταξύ 500 και 1000 lt</fuelName>
+    <fuelNormalName>Diesel Θέρμανσης κ.ο. 500-1000 lt</fuelNormalName>
+    <fuelTyleIsEnabled>1</fuelTyleIsEnabled>
+  </RECORD>
+  <RECORD>
+    <jointFuelTypeID>74</jointFuelTypeID>
+    <fuelTypeID>7</fuelTypeID>
+    <fuelSubTypeID>4</fuelSubTypeID>
+    <fuelName>Diesel Θέρμασης - K.O. &lt; 500 lt</fuelName>
+    <fuelNormalName>Diesel Θέρμανσης κ.ο. &lt;500 lt</fuelNormalName>
+    <fuelTyleIsEnabled>1</fuelTyleIsEnabled>
+  </RECORD>
+  <RECORD>
+    <jointFuelTypeID>75</jointFuelTypeID>
+    <fuelTypeID>7</fuelTypeID>
+    <fuelSubTypeID>5</fuelSubTypeID>
+    <fuelName>BP Heat - K.O. &lt; 500 lt</fuelName>
+    <fuelNormalName>Diesel Θέρμανσης κ.ο. &lt;500 lt</fuelNormalName>
+    <fuelTyleIsEnabled>1</fuelTyleIsEnabled>
+  </RECORD>
+  <RECORD>
+    <jointFuelTypeID>76</jointFuelTypeID>
+    <fuelTypeID>7</fuelTypeID>
+    <fuelSubTypeID>6</fuelSubTypeID>
+    <fuelName>Θέρμανσης K.O. &gt; 1000 lt</fuelName>
+    <fuelNormalName>Diesel Θέρμανσης κ.ο. &gt;1000 lt</fuelNormalName>
+    <fuelTyleIsEnabled>1</fuelTyleIsEnabled>
+  </RECORD>
+  <RECORD>
+    <jointFuelTypeID>77</jointFuelTypeID>
+    <fuelTypeID>7</fuelTypeID>
+    <fuelSubTypeID>7</fuelSubTypeID>
+    <fuelName>Θέρμανσης K.O. μεταξύ 500 και 1000 lt</fuelName>
+    <fuelNormalName>Diesel Θέρμανσης κ.ο. 500-1000 lt</fuelNormalName>
+    <fuelTyleIsEnabled>1</fuelTyleIsEnabled>
+  </RECORD>
+  <RECORD>
+    <jointFuelTypeID>78</jointFuelTypeID>
+    <fuelTypeID>7</fuelTypeID>
+    <fuelSubTypeID>8</fuelSubTypeID>
+    <fuelName>BP Super Heat - K.O. μεταξύ 500 και 1000 lt</fuelName>
+    <fuelNormalName>Diesel Θέρμ. Super Heat κ.ο. 500-1000 lt</fuelNormalName>
+    <fuelTyleIsEnabled>1</fuelTyleIsEnabled>
+  </RECORD>
+  <RECORD>
+    <jointFuelTypeID>79</jointFuelTypeID>
+    <fuelTypeID>7</fuelTypeID>
+    <fuelSubTypeID>9</fuelSubTypeID>
+    <fuelName>Shell Πετρέλαιο Θέρμανσης - K.O. μεταξύ 500 και 1000 lt</fuelName>
+    <fuelNormalName>Diesel Θέρμ. Super Heat κ.ο. 500-1000 lt</fuelNormalName>
+    <fuelTyleIsEnabled>1</fuelTyleIsEnabled>
+  </RECORD>
+  <RECORD>
+    <jointFuelTypeID>80</jointFuelTypeID>
+    <fuelTypeID>7</fuelTypeID>
+    <fuelSubTypeID>10</fuelSubTypeID>
+    <fuelName>Diesel Θέρμανσης - K.O. &gt; 1000 lt</fuelName>
+    <fuelNormalName>Diesel Θέρμανσης κ.ο. &gt;1000 lt</fuelNormalName>
+    <fuelTyleIsEnabled>1</fuelTyleIsEnabled>
+  </RECORD>
+  <RECORD>
+    <jointFuelTypeID>81</jointFuelTypeID>
+    <fuelTypeID>7</fuelTypeID>
+    <fuelSubTypeID>11</fuelSubTypeID>
+    <fuelName>Diesel Θέρμανσης - K.O. μεταξύ 500 και 1000 lt</fuelName>
+    <fuelNormalName>Diesel Θέρμανσης κ.ο. 500-1000 lt</fuelNormalName>
+    <fuelTyleIsEnabled>1</fuelTyleIsEnabled>
+  </RECORD>
+  <RECORD>
+    <jointFuelTypeID>82</jointFuelTypeID>
+    <fuelTypeID>7</fuelTypeID>
+    <fuelSubTypeID>12</fuelSubTypeID>
+    <fuelName>BP Heat - K.O. &gt; 1000 lt</fuelName>
+    <fuelNormalName>Diesel Θέρμανσης κ.ο. &gt;1000 lt</fuelNormalName>
+    <fuelTyleIsEnabled>1</fuelTyleIsEnabled>
+  </RECORD>
+  <RECORD>
+    <jointFuelTypeID>83</jointFuelTypeID>
+    <fuelTypeID>7</fuelTypeID>
+    <fuelSubTypeID>13</fuelSubTypeID>
+    <fuelName>Shell Πετρέλαιο Θέρμανσης - K.O. &lt; 500 lt</fuelName>
+    <fuelNormalName>Diesel Θέρμανσης κ.ο. &lt;500 lt</fuelNormalName>
+    <fuelTyleIsEnabled>1</fuelTyleIsEnabled>
+  </RECORD>
+  <RECORD>
+    <jointFuelTypeID>84</jointFuelTypeID>
+    <fuelTypeID>7</fuelTypeID>
+    <fuelSubTypeID>14</fuelSubTypeID>
+    <fuelName>Θέρμανσης K.O. &lt; 500 lt</fuelName>
+    <fuelNormalName>Diesel Θέρμανσης κ.ο. &lt;500 lt</fuelNormalName>
+    <fuelTyleIsEnabled>1</fuelTyleIsEnabled>
+  </RECORD>
+  <RECORD>
+    <jointFuelTypeID>85</jointFuelTypeID>
+    <fuelTypeID>7</fuelTypeID>
+    <fuelSubTypeID>15</fuelSubTypeID>
+    <fuelName>Diesel Θέρμανσης - K.O. &lt; 500 lt</fuelName>
+    <fuelNormalName>Diesel Θέρμανσης κ.ο. &lt;500 lt</fuelNormalName>
+    <fuelTyleIsEnabled>1</fuelTyleIsEnabled>
+  </RECORD>
+  <RECORD>
+    <jointFuelTypeID>86</jointFuelTypeID>
+    <fuelTypeID>7</fuelTypeID>
+    <fuelSubTypeID>16</fuelSubTypeID>
+    <fuelName>BP Super Heat - K.O. &lt; 500 lt</fuelName>
+    <fuelNormalName>Diesel Θέρμ. Super Heat κ.ο. &lt;500 lt</fuelNormalName>
+    <fuelTyleIsEnabled>1</fuelTyleIsEnabled>
+  </RECORD>
+  <RECORD>
+    <jointFuelTypeID>87</jointFuelTypeID>
+    <fuelTypeID>7</fuelTypeID>
+    <fuelSubTypeID>17</fuelSubTypeID>
+    <fuelName>BP Super Heat - K.O. &gt; 1000 lt</fuelName>
+    <fuelNormalName>Diesel Θέρμ. Super Heat κ.ο. &gt;1000 lt</fuelNormalName>
+    <fuelTyleIsEnabled>1</fuelTyleIsEnabled>
+  </RECORD>
+  <RECORD>
+    <jointFuelTypeID>88</jointFuelTypeID>
+    <fuelTypeID>7</fuelTypeID>
+    <fuelSubTypeID>18</fuelSubTypeID>
+    <fuelName>Shell Πετρέλαιο Θέρμανσης - K.O. &gt; 1000 lt</fuelName>
+    <fuelNormalName>Diesel Θέρμανσης κ.ο. &gt;1000 lt</fuelNormalName>
+    <fuelTyleIsEnabled>1</fuelTyleIsEnabled>
+  </RECORD>
+  <RECORD>
+    <jointFuelTypeID>89</jointFuelTypeID>
+    <fuelTypeID>7</fuelTypeID>
+    <fuelSubTypeID>19</fuelSubTypeID>
+    <fuelName>Diesel Θέρμασης - K.O.</fuelName>
+    <fuelNormalName>Diesel Θέρμανσης κατ'οίκον</fuelNormalName>
+    <fuelTyleIsEnabled>1</fuelTyleIsEnabled>
+  </RECORD>
+  <RECORD>
+    <jointFuelTypeID>90</jointFuelTypeID>
+    <fuelTypeID>7</fuelTypeID>
+    <fuelSubTypeID>20</fuelSubTypeID>
+    <fuelName>Shell Πετρέλαιο Θέρμανσης - K.O.</fuelName>
+    <fuelNormalName>Diesel Θέρμανσης κατ'οίκον</fuelNormalName>
+    <fuelTyleIsEnabled>1</fuelTyleIsEnabled>
+  </RECORD>
+  <RECORD>
+    <jointFuelTypeID>91</jointFuelTypeID>
+    <fuelTypeID>7</fuelTypeID>
+    <fuelSubTypeID>21</fuelSubTypeID>
+    <fuelName>Diesel Θέρμανσης - K.O.</fuelName>
+    <fuelNormalName>Diesel Θέρμανσης κατ'οίκον</fuelNormalName>
+    <fuelTyleIsEnabled>1</fuelTyleIsEnabled>
+  </RECORD>
+  <RECORD>
+    <jointFuelTypeID>92</jointFuelTypeID>
+    <fuelTypeID>7</fuelTypeID>
+    <fuelSubTypeID>22</fuelSubTypeID>
+    <fuelName>BP Heat - K.O.</fuelName>
+    <fuelNormalName>Diesel Θέρμανσης κατ'οίκον</fuelNormalName>
+    <fuelTyleIsEnabled>1</fuelTyleIsEnabled>
+  </RECORD>
+  <RECORD>
+    <jointFuelTypeID>93</jointFuelTypeID>
+    <fuelTypeID>7</fuelTypeID>
+    <fuelSubTypeID>23</fuelSubTypeID>
+    <fuelName>Θέρμανσης K.O.</fuelName>
+    <fuelNormalName>Diesel Θέρμανσης κατ'οίκον</fuelNormalName>
+    <fuelTyleIsEnabled>1</fuelTyleIsEnabled>
+  </RECORD>
+  <RECORD>
+    <jointFuelTypeID>94</jointFuelTypeID>
+    <fuelTypeID>7</fuelTypeID>
+    <fuelSubTypeID>24</fuelSubTypeID>
+    <fuelName>BP Super Heat - K.O.</fuelName>
+    <fuelNormalName>Diesel Θέρμανσης κατ'οίκον</fuelNormalName>
+    <fuelTyleIsEnabled>1</fuelTyleIsEnabled>
+  </RECORD>
+</RECORDS>
