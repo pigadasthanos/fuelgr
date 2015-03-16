@@ -539,7 +539,7 @@
         var xmlhttp = initAJAX();
           if (xmlhttp) {
               var dt = new Date();  //αποφυγή caching σελίδας
-              var url= "ajax/call_alert_correction.php?dev="+clientID+"&gsid="+gsID+"&lat="+lat+"&long="+lng+"&date="+dt;
+              var url= "ajax/call_correction.php?dev="+clientID+"&gsid="+gsID+"&lat="+lat+"&long="+lng+"&date="+dt;
               xmlhttp.open("GET",url,true);   // true - asynchronous call
               xmlhttp.send(null);
                 // callback function

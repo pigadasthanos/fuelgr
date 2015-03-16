@@ -62,14 +62,7 @@
 		
 		margin-right: -1em;
 	}
-	#infoArea {
-		clear: both;
-		bottom: 66px;
-	    font-size: 11px;
-	    font-weight: bold;
-	    margin-left: -4em;
-	    width: 230px;
-	}
+
 	#memorandum {
 		clear: both;
 		bottom: 66px;
@@ -152,17 +145,6 @@
 	.l1{position: absolute;}
 	.l4{left:-1.3em;}
 	.buttons {font-size:12px;}
-	#infoArea {
-		clear: both;
-		font-size: 10px;
-		font-weight: bold;
-		height: 250px;
-		overflow-y:auto;
-		overflow-x: hidden; 
-		margin-left: -2em;
-		bottom: 47px;
-		width: 245px;
-	}
 	#memorandum {
 		clear: both;
 		font-size: 10px;
@@ -247,7 +229,6 @@
     max-width:85% !important;
     height:auto;
     display:inline;
-
 }
 
 /*=============== /Logo DEIXTO Area==================*/
@@ -263,16 +244,6 @@
 	margin: auto;
     font-weight: bold;
     cursor: pointer;  
-}
-
-#infoArea {
-	clear: both;
-	background-color: white;
-    border-radius: 1px;
-    box-shadow: 0 0 30px #000000;
-    display: none;
-    padding: 5px;
-    position: absolute;
 }
 #memorandum {
 	clear: both;

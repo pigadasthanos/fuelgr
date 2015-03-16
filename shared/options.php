@@ -1,36 +1,6 @@
 
  <ul class="navbar-nav nav l2">
     <li class="l4 l1" >
-      <div id="infoArea">
-        
-              <!-- <h4 style="margin: -10px 0 -15px; text-align:center; font-weight: 800;">Συντελεστές</h4><hr> -->
-              <div class="row" style="margin:2px;">
-                  <div class="col-xs-6"><img src="img/app logo/fuelGR-128.png"/></div>
-                  <div class="col-xs-6"><img src="img/powered-by-deixto-for-light-background72.png"/></div>
-              </div>
-              <div class="row" style="margin:2px;">
-                <div class="text-right" style="float:left; width:70px;">Σχεδίαση:</div>
-                <div class="text-left" style="float:right; width:140px;"> Πηγαδάς Αθανάσιος <a href="http://www.researchgate.net/profile/Fotis_Kokkoras">Κόκκορας Φώτης</a></div>
-              </div>
-              <div class="row" style="margin:2px;">
-                <div class="text-right" style="float:left; width:70px;">Υλοποίηση:</div>
-                <div class="text-left" style="float:right; width:140px;"> Πηγαδάς Αθανάσιος</div>
-              </div>
-              <div class="row" style="margin:2px;">
-                <div class="text-right" style="float:left; width:70px;">Δεδομένα:</div>
-                <div class="text-left" style="float:right; width:140px;">DEiXTo team <a href="http://deixto.com/">(http://deixto.com/)</a> fuelGR API</div>
-              </div>
-              <div class="row" style="margin:2px;">
-                <div><a href="http://sakelab.teilar.gr/">SAKE Lab</a>-<a href="http://www.cs.teilar.gr/CS/Home.jsp">Τμ. Μηχ.Πληροφορικής</a>–<a href="http://www.teilar.gr/">ΤΕΙ Θεσσαλίας</a></div>
-              </div>
-              <div class="row">
-                      <div class="col-xs-4 col-xs-offset-2"><a class="btn btn-twitter" href="https://twitter.com/fuelgr" style="width:30px; height:30px;"><em class="fa fa-twitter"></em></a></div>
-                      <div class="col-xs-4"><a class="btn btn-facebook" href="https://www.facebook.com/fuelgr" style="width:30px; height:30px;"><em class="fa fa-facebook"></em></a></div>
-              </div>
-              <div class="row" style="margin:2px;">
-                <button class="btn btn-default" data-toggle="modal" data-target=".bs-example-modal-disclaimer" title="Αποποίηση Ευθυνών">Αποποίηση Ευθυνών</button>
-              </div>
-      </div>
       	<a class="buttons" tabindex="1" title="Σχετικά με το fuelGr" data-toggle="modal" data-target=".bs-example-modal-about">
               <span class="myglyphicon glyphicon glyphicon-info-sign"></span><br>
           <span id="area">Πληροφορίες</span></a>

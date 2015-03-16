@@ -12,12 +12,8 @@
     <!-- Bootstrap -->
 
     <title>fuelGr - Πρατήρια Καυσίμων</title>
-
   </head>
-
   <body>
-
-  
       <?php include('header.php'); ?>
       <div id="container">
         <div id="containerMap"> <!-- container -->
